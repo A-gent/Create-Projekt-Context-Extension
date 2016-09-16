@@ -1,0 +1,6 @@
+# Create-Projekt-Context-Extension
+A context menu extension for Windows 10, that easily structures an entire project folder with one simple click.
+
+
+This is the release build. This build is completely ready for active duty on your machine.
+The release build requires installation and editation of slight key information, such as the directory inside of the .bat
